@@ -1,5 +1,6 @@
 package client;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import exception.AgeNotAllowedException;
@@ -8,6 +9,10 @@ import exception.ErrorMessages;
 public class ClientManager {
 
 	private List<Client> clients;
+	
+	public ClientManager() {
+		clients = new ArrayList<>();
+	}
 
 	public List<Client> getClients() {
 		return clients;

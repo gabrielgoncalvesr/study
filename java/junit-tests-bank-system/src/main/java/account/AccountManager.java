@@ -1,6 +1,7 @@
 package account;
 
 
+import java.util.ArrayList;
 import java.util.List;
 
 import exception.ErrorMessages;
@@ -9,9 +10,9 @@ import exception.TransferNotAllowedException;
 public class AccountManager {
 
 	private List<CheckingAccount> accounts;
-
-	public AccountManager(List<CheckingAccount> accounts) {
-		this.accounts = accounts;
+	
+	public AccountManager() {
+		accounts = new ArrayList<>();
 	}
 
 	public List<CheckingAccount> getAccounts() {
@@ -32,6 +33,10 @@ public class AccountManager {
 
 	public boolean isActiveAccount(Integer accountId) {
 		return searchAccount(accountId).getActivated();
+	}
+	
+	public void clear() {
+		accounts.clear();
 	}
 	
 	public boolean transferValue(Integer accountIdSource, Integer accountIdDestiny, Double value) throws TransferNotAllowedException {
