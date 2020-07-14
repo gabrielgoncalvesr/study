@@ -11,4 +11,4 @@ A repository for save codes used in classes and courses.
 - [X] [jwt-authentication](/node/jwt-authentication)
 
 ###### Python
-- [X] [multilayer-neural_network_keras](/python/multilayer-neural_network_keras)
+- [X] [multilayer-neural-network-keras](/python/multilayer-neural-network-keras)
