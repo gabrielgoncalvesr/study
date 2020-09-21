@@ -1,2 +1,3 @@
 java/junit-tests-bank-system/bin/
 node/jwt-authentication/node_modules/
+node/web-push-notification/node_modules/
