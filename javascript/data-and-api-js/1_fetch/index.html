@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+</head>
+
+<body>
+
+    <img src="" alt="" id="rainbow" />
+
+    <script>
+
+        // using async function
+        catchRainbow()
+            .then(response => {
+                console.log(done);
+            })
+            .catch(error => {
+                console.error(error);
+            });
+
+        catchRainbow = async () => {
+            const response = await fetch('rainbow.jpg');
+            const blob = await response.blob();
+            document.getElementById('rainvow').src = URL.createObjectURL(bob);
+        }
+
+        //using handle promise
+        fetch('rainbow.jpg')
+            .then(response => {
+                return response.blob();
+            })
+            .then(bob => {
+                document.getElementById('rainvow').src = URL.createObjectURL(bob);
+            })
+            .catch(error => {
+                console.error(error);
+            });
+    </script>
+
+</body>
+
+</html>
