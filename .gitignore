@@ -1,3 +1,5 @@
 java/junit-tests-bank-system/bin/
 node/jwt-authentication/node_modules/
 node/web-push-notification/node_modules/
+node/socket-notifications/node_modules/
+react/animated-logo/node_modules/
