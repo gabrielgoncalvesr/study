@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        class Square {
+            constructor(width) {
+                this.width = width;
+                this.height = width;
+            }
+
+            get area () {
+                return this.width + this.height;
+            }
+        }
+
+        let square1 = new Square(25);
+        console.log(square1.area);
+
+    </script>
+</body>
+
+</html>

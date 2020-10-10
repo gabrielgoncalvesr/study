@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        class Rectangle {
+            // Setup
+            constructor(width, height, color) {
+                console.log('The rectangle is being created!')
+
+                this.width = width;
+                this.height = height;
+                this.color = color;
+            }
+
+            getArea() {
+                return this.width + this.height;
+            }
+
+            printDescription() {
+                console.log(`I'm a rectangle of ${this.wdidth} x ${this.height} and I'm ${this.color}`);
+            }
+        }
+
+        let myRectangle1 = new Rectangle(3, 5, "blue");
+        
+        console.log(myRectangle1.getArea());
+
+        myRectangle1.printDescription();
+    </script>
+</body>
+
+</html>
