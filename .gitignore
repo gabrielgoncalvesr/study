@@ -1,5 +1,12 @@
+# java
 java/junit-tests-bank-system/bin/
+
+# node
 node/jwt-authentication/node_modules/
 node/web-push-notification/node_modules/
 node/socket-notifications/node_modules/
+node/2fa-authenticatior/node_modules/
+node/basic-graphql/node_modules/
+
+# react
 react/animated-logo/node_modules/
