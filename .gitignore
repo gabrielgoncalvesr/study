@@ -10,3 +10,6 @@ node/basic-graphql/node_modules/
 
 # react
 react/animated-logo/node_modules/
+
+# all
+all/graphql-book-service/server/node_modules
