@@ -11,5 +11,9 @@ node/basic-graphql/node_modules/
 # react
 react/animated-logo/node_modules/
 
+#typescript
+typescript/julius-api/node_modules/
+typescript/julius-api/pgdata/
+
 # all
 all/graphql-book-service/server/node_modules
