@@ -25,8 +25,8 @@ A repository for save codes used in classes and courses.
 - [X] [animated-logo](/react/animated-logo)
 
 ###### C#
-- [X] [efcore-scaffold](/c#/EFCore)
-- [X] [efcore](/c#/EFCore.WebAPI)
+- [X] [efcore-scaffold](/c%23/EFCore)
+- [X] [efcore](/c%23/EFCore.WebAPI)
 
 ###### ALL
 - [X] [graphql-book-service](/all/graphql-book-service)
