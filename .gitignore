@@ -12,8 +12,14 @@ node/basic-graphql/node_modules/
 react/animated-logo/node_modules/
 
 #typescript
-typescript/julius-api/node_modules/
+typescript/julius-api/
 typescript/julius-api/pgdata/
+
+#c#
+c#/EFCore.WebAPI/EFCore.WebAPI/bin/
+c#/EFCore.WebAPI/EFCore.WebAPI/obj/
+c#/EFCore/EFCore.Legado/bin/
+c#/EFCore/EFCore.Legado/obj/
 
 # all
 all/graphql-book-service/server/node_modules
