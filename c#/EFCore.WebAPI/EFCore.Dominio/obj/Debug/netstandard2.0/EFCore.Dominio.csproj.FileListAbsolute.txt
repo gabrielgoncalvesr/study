@@ -1,0 +1,9 @@
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCore.Dominio\bin\Debug\netstandard2.0\EFCore.Dominio.deps.json
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCore.Dominio\bin\Debug\netstandard2.0\EFCore.Dominio.dll
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCore.Dominio\bin\Debug\netstandard2.0\EFCore.Dominio.pdb
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCore.Dominio\obj\Debug\netstandard2.0\EFCore.Dominio.AssemblyInfoInputs.cache
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCore.Dominio\obj\Debug\netstandard2.0\EFCore.Dominio.AssemblyInfo.cs
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCore.Dominio\obj\Debug\netstandard2.0\EFCore.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCore.Dominio\obj\Debug\netstandard2.0\EFCore.Dominio.dll
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCore.Dominio\obj\Debug\netstandard2.0\EFCore.Dominio.pdb
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCore.Dominio\obj\Debug\netstandard2.0\EFCore.Dominio.csprojAssemblyReference.cache

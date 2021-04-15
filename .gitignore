@@ -20,6 +20,15 @@ c#/EFCore.WebAPI/EFCore.WebAPI/bin/
 c#/EFCore.WebAPI/EFCore.WebAPI/obj/
 c#/EFCore/EFCore.Legado/bin/
 c#/EFCore/EFCore.Legado/obj/
+c#/ExampleApiGateway/ApiGateway/bin/
+c#/ExampleApiGateway/ApiGateway/obj/
+c#/ExampleApiGateway/ApiServiceOne/bin/
+c#/ExampleApiGateway/ApiServiceOne/obj/
+c#/ExampleApiGateway/ApiServiceTwo/bin/
+c#/ExampleApiGateway/ApiServiceTwo/obj/
+
+
+
 
 # all
 all/graphql-book-service/server/node_modules

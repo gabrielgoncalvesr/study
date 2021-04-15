@@ -1,0 +1,12 @@
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCor.Repo\bin\Debug\netstandard2.0\EFCor.Repo.deps.json
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCor.Repo\bin\Debug\netstandard2.0\EFCor.Repo.dll
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCor.Repo\bin\Debug\netstandard2.0\EFCor.Repo.pdb
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCor.Repo\bin\Debug\netstandard2.0\EFCore.Dominio.dll
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCor.Repo\bin\Debug\netstandard2.0\EFCore.Dominio.pdb
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCor.Repo\obj\Debug\netstandard2.0\EFCor.Repo.csprojAssemblyReference.cache
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCor.Repo\obj\Debug\netstandard2.0\EFCor.Repo.AssemblyInfoInputs.cache
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCor.Repo\obj\Debug\netstandard2.0\EFCor.Repo.AssemblyInfo.cs
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCor.Repo\obj\Debug\netstandard2.0\EFCor.Repo.csproj.CoreCompileInputs.cache
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCor.Repo\obj\Debug\netstandard2.0\EFCor.Repo.csproj.CopyComplete
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCor.Repo\obj\Debug\netstandard2.0\EFCor.Repo.dll
+C:\Users\greis\Desktop\study\c#\EFCore.WebAPI\EFCor.Repo\obj\Debug\netstandard2.0\EFCor.Repo.pdb
